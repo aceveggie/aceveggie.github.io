@@ -1,5 +1,9 @@
-title: [rahulkavi.com]
-description: [World of my own]
+title: rahulkavi.com
+description: World of my own
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+navbar-links:
+  About Me: "index.md"
+  Author's home: "http://aceveggie.github.io"
