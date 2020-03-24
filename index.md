@@ -14,5 +14,3 @@ You can also follow me/my work on:
 2. Code Blog: [Developer Station](http://www.developerstation.org)
 3. Online Coursework: [Coursera/Udacity](./online-courses.html)
 4. Google Scholar: [Rahul Kavi](https://scholar.google.com/citations?user=k4viOigAAAAJ)
-
-[Link to another page](./another-page.html).
