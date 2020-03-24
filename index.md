@@ -10,8 +10,8 @@ Checkout the [fun projects](./fun-side-projects.html) I’ve worked on in the pa
 
 You can also follow me/my work on:
 
-1. Github: [Aceveggie](www.github.com/aceveggie)
-2. Code Blog: [Developer Station](www.developerstation.org)
+1. Github: [Aceveggie](https://www.github.com/aceveggie)
+2. Code Blog: [Developer Station](http://www.developerstation.org)
 3. Online Coursework: Coursera/Udacity
 4. Google Scholar: [Rahul Kavi](https://scholar.google.com/citations?user=k4viOigAAAAJ)
 
