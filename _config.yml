@@ -7,3 +7,10 @@ theme: jekyll-theme-cayman
 navbar-links:
   About Me: "index.md"
   Author's home: "http://aceveggie.github.io"
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+  home_page_url: http://aceveggie.github.io
+  code_blog_url: http://www.developerstation.org
+  repository_url: http://www.github.com/aceveggie
