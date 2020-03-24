@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #### I have worked on the following projects:
 
 1. NASA robotics prize winning robot ([2015](https://www.nasa.gov/press-release/nasa-awards-100000-to-winning-team-of-robot-challenge) & [2016](https://www.nasa.gov/directorates/spacetech/centennial_challenges/feature/2016_sample_return_robot_challenge_award.html)).

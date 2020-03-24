@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #### Some of my recent online courses:
 
 1. Deep Learning: Udacity Nanodegree (in progress-2020)
