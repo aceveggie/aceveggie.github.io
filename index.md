@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m a Research Scientist working in Silicon Valley. I finished my PhD (Computer Science) in 2016.  I work on Computer Vision/Deep Learning systems.
+I’m a Research Scientist working in Silicon Valley. I finished my PhD (Computer Science) in 2016.  I work on Computer Vision/Machine Learning/Deep Learning systems.
 
 Checkout the [fun projects](./fun-side-projects.html) I’ve worked on in the past (in Grad School @ WVU).
 
