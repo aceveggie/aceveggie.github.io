@@ -4,7 +4,7 @@ layout: default
 
 #### I have worked on the following projects (in the area of Computer Vision/NLP using deep learning):
 
-* TV Script generation (using a LSTMs). Here is the [github page](https://github.com/aceveggie/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.md). (2020).
+* TV Script generation (using LSTMs). Here is the [github page](https://github.com/aceveggie/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.md). (2020).
 * Face generation using DCGANs (Large-scale CelebFaces Attributes-CelebA) Dataset. Checkout the [github page](https://github.com/aceveggie/deep-learning-v2-pytorch/blob/master/project-face-generation/dlnd_face_generation.md) (2020).
 * NASA robotics prize winning robots. I wrote Robot Operating Sytem(ROS) Python/C++ services and nodes using Python/C++ in OpenCV/Theano/Caffe:
     * [2015 Press Release](https://www.nasa.gov/press-release/nasa-awards-100000-to-winning-team-of-robot-challenge) and Youtube [video](https://www.youtube.com/watch?v=PEMaueVXstQ).
