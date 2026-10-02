@@ -47,6 +47,7 @@ Previously at KLA, I worked on machine learning and computer vision for semicond
 
 - **ServiceNow:** Developed AI Agent Studio capabilities for planning, orchestration, and task execution; evaluated behavior across supported LLMs.
 - **KLA:** Built deep learning workflows for silicon-wafer defect classification and worked with engineering teams to integrate ML into products.
+- **OpenCV:** Contributed to the open-source computer vision library used widely across research and production systems.
 - **West Virginia University:** Researched computer vision and activity recognition using cameras, wearable sensors, and edge devices.
 
 ## Tech Stack
@@ -62,6 +63,7 @@ Previously at KLA, I worked on machine learning and computer vision for semicond
 ## Selected Links
 
 - [GitHub profile](https://www.github.com/aceveggie)
+- [OpenCV project](https://github.com/opencv/opencv)
 - [Google Scholar](https://scholar.google.com/citations?user=k4viOigAAAAJ)
 - [Online coursework and certifications](./online-courses.html)
 - [LinkedIn](https://www.linkedin.com/in/rahulkavi/)
