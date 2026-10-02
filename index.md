@@ -55,7 +55,7 @@ Previously at KLA, I worked on machine learning and computer vision for semicond
 | Area | Technologies |
 | --- | --- |
 | Languages | Python, C++, Java, JavaScript, Bash |
-| Generative AI and Agents | LangChain, LangGraph, CrewAI, MCP, RAG, LLM guardrails |
+| Generative AI and Agents | LangChain, LangGraph, MCP, RAG, LLM guardrails |
 | ML and Vision | PyTorch, TensorFlow, scikit-learn, OpenCV |
 | Data and Retrieval | NumPy, Pandas, SciPy, FAISS, Pinecone, SQL |
 | Services and Tooling | FastAPI, Docker, REST APIs, Git |
