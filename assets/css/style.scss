@@ -2,3 +2,106 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.page-header {
+  padding-bottom: 2.5rem;
+}
+
+.project-name {
+  font-weight: 700;
+}
+
+.main-content {
+  color: #2f3a45;
+}
+
+.profile-hero {
+  padding: 2rem 0 1rem;
+  border-bottom: 1px solid #e6ebf1;
+  margin-bottom: 2rem;
+}
+
+.profile-hero h1 {
+  margin: 0.35rem 0 0.75rem;
+  color: #1b2733;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.eyebrow {
+  margin: 0;
+  color: #157878;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.lead {
+  max-width: 46rem;
+  color: #40505f;
+  font-size: 1.2rem;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.hero-links a {
+  display: inline-block;
+  padding: 0.45rem 0.75rem;
+  color: #157878;
+  border: 1px solid #c8e1dc;
+  border-radius: 0.3rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.hero-links a:hover {
+  background: #f2fbf9;
+  text-decoration: none;
+}
+
+.focus-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.focus-grid > div {
+  padding: 1rem;
+  border: 1px solid #e6ebf1;
+  border-radius: 0.3rem;
+  background: #fbfcfd;
+}
+
+.focus-grid h3 {
+  margin: 0 0 0.4rem;
+  color: #1f6f68;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.focus-grid p {
+  margin: 0;
+  font-size: 0.98rem;
+}
+
+@media screen and (max-width: 42em) {
+  .profile-hero h1 {
+    font-size: 2rem;
+  }
+
+  .lead {
+    font-size: 1.05rem;
+  }
+
+  .focus-grid {
+    grid-template-columns: 1fr;
+  }
+}
