@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Rahul Kavi
-description: Staff Research Engineer | Machine Learning Engineer | PhD in Computer Science
+description: Staff Research Engineer/Scientist | Machine Learning Engineer | PhD in Computer Science
 ---
 
 <section class="profile-hero">
   <p class="eyebrow">Applied AI, machine learning systems, and computer vision</p>
   <h1>Rahul Kavi</h1>
-  <p class="lead">Staff Research Engineer at ServiceNow working on enterprise AI agents, LLM evaluation, and production ML systems.</p>
+  <p class="lead">Staff Research Engineer/Scientist at ServiceNow working on enterprise AI agents, LLM evaluation, and production ML systems.</p>
   <div class="hero-links">
     <a href="https://www.linkedin.com/in/rahulkavi/">LinkedIn</a>
     <a href="https://www.github.com/aceveggie">GitHub</a>
